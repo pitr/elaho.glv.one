@@ -1,0 +1,56 @@
+# Feedback
+
+Hi, I am Peter, known as pitr online. Apart from Elaho, I have the following projects in Gemini space:
+
+=> gemini://geddit.glv.one Geddit, link aggregator
+=> gemini://wp.glv.one Wikipedia proxy into Gemini
+=> gemini://egsam.glv.one Egsam, client torture test
+=> gemini://glv.one GLV, world's simplest PaaS, for Gemini universe
+
+## Contact
+
+=> mailto:pitr.vern@gmail.com pitr.vern@gmail.com
+=> https://github.com/pitr On GitHub
+
+## Changelog
+
+### Version 1.4
+
+- remove Saturday Morning News from default top sites
+- fix Up button scaling
+- handle non-supported formats better (eg. OGG audio files can be saved to Files or opened with VLC)
+- add color ANSI escape codes for preformatted text (disabled by default)
+- security: confirm on cross-domain redirect
+- fix links without domain, eg. gemini:///page.gmi
+- hide arrow prefix in links for improved accessibility
+- undo pre-formatted text being scaled to fit the page width
+- fix encoding of input (eg. # is encoded correctly)
+- bug fixes in network stack and in response parsing
+
+### Version 1.3
+
+- drop iOS 11, but bring support for TLSv1.3
+- image inlining is now only per user request
+- pre-formatted text now has proper accessibility label
+- pre-formatted text is scaled to fit the page as best as possible
+- per-site themes are back (off by default)
+- add medusae and geminispace.info search engines, latter is now default
+- bookmarks can be accessed by page setting button
+- fix infinite redirects
+- better input page: larger text field, and character counter
+- add feedback button in settings
+
+### Version 1.2
+
+- rebrand Gemini Browser as Elaho (with a cute new icon)
+- a lot of fixes for iPad version
+- complete overhaul of page styles
+
+### Version 1.1
+
+- support international URL
+- add an "up" button to go up the server's directory
+- no underlines on links
+- add setting to open web links in in-app safari
+- reorganize bottom tab bar
+- fix bug where fragment is sent to server

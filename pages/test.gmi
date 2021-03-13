@@ -1,0 +1,10 @@
+# test
+
+## links
+=> mailto:pitr.vern@gmail.com
+=> gemini:///feedback
+=> /feedback
+
+## redirects
+=> /local_redirect
+=> /foreign_redirect

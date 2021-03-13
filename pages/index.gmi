@@ -1,0 +1,22 @@
+# Elaho
+
+Elaho is an iOS client for Gemini protocol.
+
+It supports latest Gemini standard, including:
+
+- all status codes
+- input (including sensitive input)
+- client certificates
+- all of text/gemini
+
+Built on a fork of an open source Firefox Browser for iOS, inheriting the following features:
+
+- tabs
+- bookmarks
+- customizable search engines
+- share extension
+- etc
+
+=> https://apps.apple.com/app/id1514950389 Download on the App Store
+=> /feedback Feedback
+=> https://github.com/pitr/gemini-ios Source code
